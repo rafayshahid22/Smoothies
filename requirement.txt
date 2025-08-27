@@ -1,2 +1,2 @@
-snowflake-snowpark-python==1.19.0
+snowflake-snowpark-python==1.20.0
 streamlit==1.47.0
