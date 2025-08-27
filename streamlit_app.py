@@ -4,7 +4,7 @@ from snowflake.snowpark.functions import col
 
 # Title
 st.title(":cup_with_straw: Your Smoothie, Your Way! :cup_with_straw:")
-st.write("Choose the fruits you want in your custom Smoothie!")
+st.write("Build your smoothie with your favorite fruits!")
 
 # Input field for name
 name_on_order = st.text_input("Name on Smoothie", "")
